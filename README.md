@@ -1,4 +1,4 @@
-# BinGo Clash | 3月25日21.3M/S|免费Shadowrocket/SSR/V2ray/Clash订阅节点  更新时间 2025-03-25 15:56:59
+# BinGo Clash | 3月25日21.5M/S|免费Clash/Shadowrocket/V2ray/SSR订阅节点  更新时间 2025-03-25 16:00:37
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://bingoclash.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
