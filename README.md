@@ -1,4 +1,4 @@
-# BinGo Clash | 4月24日18M/S|免费V2ray节点/Singbox节点/SSR节点/Clash节点/Shadowrocket节点订阅节点  更新时间 2026-04-24 08:59:03
+# BinGo Clash | 5月1日22.3M/S|免费Singbox节点/SSR节点/Clash节点/V2ray节点/Shadowrocket节点订阅节点  更新时间 2026-05-01 09:44:49
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://bingoclash.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://bingoclash.github.io/uploads/2026/04/0-20260424.yaml
-- https://bingoclash.github.io/uploads/2026/04/1-20260424.yaml
-- https://bingoclash.github.io/uploads/2026/04/2-20260424.yaml
-- https://bingoclash.github.io/uploads/2026/04/3-20260424.yaml
-- https://bingoclash.github.io/uploads/2026/04/4-20260424.yaml
+- https://bingoclash.github.io/uploads/2026/05/0-20260501.yaml
+- https://bingoclash.github.io/uploads/2026/05/1-20260501.yaml
+- https://bingoclash.github.io/uploads/2026/05/2-20260501.yaml
+- https://bingoclash.github.io/uploads/2026/05/3-20260501.yaml
+- https://bingoclash.github.io/uploads/2026/05/4-20260501.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://bingoclash.github.io/uploads/2026/04/0-20260424.txt
-- https://bingoclash.github.io/uploads/2026/04/1-20260424.txt
-- https://bingoclash.github.io/uploads/2026/04/2-20260424.txt
-- https://bingoclash.github.io/uploads/2026/04/3-20260424.txt
-- https://bingoclash.github.io/uploads/2026/04/4-20260424.txt
+- https://bingoclash.github.io/uploads/2026/05/0-20260501.txt
+- https://bingoclash.github.io/uploads/2026/05/1-20260501.txt
+- https://bingoclash.github.io/uploads/2026/05/2-20260501.txt
+- https://bingoclash.github.io/uploads/2026/05/3-20260501.txt
+- https://bingoclash.github.io/uploads/2026/05/4-20260501.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://bingoclash.github.io/uploads/2026/04/20260424.json
+- https://bingoclash.github.io/uploads/2026/05/20260501.json
 
 ## 更多Clash节点订阅 ：
 
